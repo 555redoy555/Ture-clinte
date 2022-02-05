@@ -2,11 +2,7 @@
 
 ### Live site <https://riders-4adb6.web.app/>
 
-## A Kids toys related website
 
--   This is a website that represents a toy store or online based toy store named Baby Land.
--   A user can view the different toys and make orders of purchase.
--   This website also have a banner. A top feature and review section in the Home page.
 
 ## User Account
 
