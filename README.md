@@ -10,12 +10,7 @@
 -   A user can directly make an account or login using google account.
 -   Once the user logs in he'll see his profile picture or username on the header.
 
-## Product detail
 
--   If the user clicks on the buy now button of a product then will be directed to the details page.
--   From the details page user can view more information and can place order.
--   The system automatically takes username and email from the login system.
--   The user have to give address and phone number to place the order.
 
 ## User controls
 
